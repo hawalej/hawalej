@@ -1,6 +1,6 @@
-Operator obrazu w TVN24, wcześniej fotoreporter „Rzeczpospolitej” i PAP.
-Buduję narzędzia do transkrypcji, automatyzacji audio i wideo oraz
-weryfikacji autentyczności zdjęć (metadane, C2PA).
+Buduję narzędzia dla redakcji: transkrypcję nagrań, automatyzację audio
+i wideo oraz weryfikację autentyczności zdjęć (metadane, C2PA).
+Praktykę z ponad dwudziestu lat w prasie i telewizji łączę z technologią.
 
 *Camera operator and former photojournalist building tools for newsrooms:
 transcription, photo verification and content provenance (C2PA).*
